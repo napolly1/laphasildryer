@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/laphasildryer/static/css/main.dc2484e5.css",
-    "main.js": "/laphasildryer/static/js/main.d5ef27f2.js",
+    "main.css": "/laphasildryer/static/css/main.de356eb3.css",
+    "main.js": "/laphasildryer/static/js/main.cd9ea57f.js",
     "index.html": "/laphasildryer/index.html",
-    "main.dc2484e5.css.map": "/laphasildryer/static/css/main.dc2484e5.css.map",
-    "main.d5ef27f2.js.map": "/laphasildryer/static/js/main.d5ef27f2.js.map"
+    "main.de356eb3.css.map": "/laphasildryer/static/css/main.de356eb3.css.map",
+    "main.cd9ea57f.js.map": "/laphasildryer/static/js/main.cd9ea57f.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc2484e5.css",
-    "static/js/main.d5ef27f2.js"
+    "static/css/main.de356eb3.css",
+    "static/js/main.cd9ea57f.js"
   ]
 }
